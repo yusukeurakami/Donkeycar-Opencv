@@ -6,10 +6,10 @@ Following is how I install opencv in my Raspi and Macbook
 
 Don't forget upgrade and update!
 
-'''bash
+```bash
 sudo apt upgrade
 sudo apt update
-'''
+```
 
 '''bash
 sudo apt install python-opencv
